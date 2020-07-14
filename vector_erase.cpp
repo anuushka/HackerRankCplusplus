@@ -5,7 +5,6 @@
 #include <algorithm>
 using namespace std;
 
-
 int main() {
     int data, n, x, a, b;
     vector<int> arr;
