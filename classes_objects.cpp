@@ -9,10 +9,11 @@ using namespace std;
 class Student
 {
     private:
-        int scores[5];
+        vector<int> scores;
     public:
         void input()
         {
+            scores.resize(5);
             for(int i = 0; i < 5; i++)
             {
                 cin >> scores[i];
@@ -28,7 +29,6 @@ class Student
             return total_score;
         }
 };
-
 
 int main() {
     int n; 
