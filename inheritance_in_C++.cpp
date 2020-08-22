@@ -18,8 +18,7 @@ class Isosceles : public Triangle{
     	void isosceles(){
     		cout<<"I am an isosceles triangle\n";
     	}
-  		void description()
-        {
+  		void description(){
             cout << "In an isosceles triangle two sides are equal\n";
         }
 };
