@@ -8,10 +8,12 @@ Branches:
 
 4. Algorithms
 
+5. Data structures
+
 Solved Easy C++ practice.
 
 Solving Medium C++ practice.
 
 Will solve Hard C++ practice.
 
-Will solve Algorithms C++.
+Will solve Algorithms and Data structures C++.
