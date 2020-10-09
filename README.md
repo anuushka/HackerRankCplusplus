@@ -1,5 +1,6 @@
 # HackerRank
 
+I avoid using master branch.
 Branches: 
 1. Easy C++ 
 
