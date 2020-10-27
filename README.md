@@ -20,6 +20,6 @@ Branches:
 
 9. Python Certificate
 
-C++ practice 33/44
+Solved C++ practice 33/44
 
 
