@@ -20,10 +20,6 @@ Branches:
 
 9. Python Certificate
 
-Solved Easy C++ practice.
+C++ practice 33/44
 
-Solving Medium C++ practice.
 
-Will solve Hard C++ practice.
-
-Will solve Algorithms and Data structures C++.
