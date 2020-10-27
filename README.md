@@ -12,6 +12,14 @@ Branches:
 
 5. Data structures
 
+6. Python Easy
+
+7. Python Medium
+
+8. Python Hard
+
+9. Python Certificate
+
 Solved Easy C++ practice.
 
 Solving Medium C++ practice.
