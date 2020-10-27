@@ -8,18 +8,6 @@ Branches:
 
 3. Hard C++ 
 
-4. Algorithms
-
-5. Data structures
-
-6. Python Easy
-
-7. Python Medium
-
-8. Python Hard
-
-9. Python Certificate
-
 Solved C++ practice 33/44
 
 
