@@ -4,7 +4,6 @@
 
 **ITMO University Laboratory Assignment OS Baatartsogt Anujin M3212**
 
-I avoid using master branch.
 Branches: 
 1. Easy C++ 
 
